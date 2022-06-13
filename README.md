@@ -1,18 +1,7 @@
-![Banner](https://s-christy.com/status-banner-service/samchristywork/banner-slim.svg)
-
 Hi, I'm Sam Christy and this account hosts some of my public programming work.
-Everything in these repositories was written after May 25th, 2022. Below I have
-listed all of the repositories I maintain on this account. I've sorted them into
-categories and added a brief description to aid with navigation.
-
-## Web
-|Repository                                                                                  |Description                                                                                                      |
-|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-|[application-tracking-system](https://github.com/samchristywork/application-tracking-system)|A web app for tracking job applications.                                                                         |
-|[collaborative-movie-list](https://github.com/samchristywork/collaborative-movie-list)      |A simple web-hosted list of movies to be collaboratively edited.                                                 |
-|[status-banner-server](https://github.com/samchristywork/status-banner-server)              |A service for displaying SVG badges and banners, and an API to update project status.                   |
-|[website-landing](https://github.com/samchristywork/website-landing)                        |The landing page for my website.                                                                                 |
-|[xkcd-web-scraper](https://github.com/samchristywork/xkcd-web-scraper)                      |A program for downloading all of the posts from xkcd.com and displaying them on a single web page.               |
+Below I have listed all of the repositories I maintain on this account. I've
+sorted them into categories and added brief descriptions for each to aid with
+navigation.
 
 ## CLI
 |Repository                                                                                  |Description                                                                                                      |
@@ -25,7 +14,17 @@ categories and added a brief description to aid with navigation.
 ## Graphics
 |Repository                                                                                  |Description                                                                                                      |
 |--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+|[dsml2](https://github.com/samchristywork/dsml2)                                            |An interpreter for a JSON-based language that I use to typeset documents.                                        |
 |[hilbert-unifont](https://github.com/samchristywork/hilbert-unifont)                        |Visualizing Unifont on the Hilbert Curve.                                                                        |
+
+## Web
+|Repository                                                                                  |Description                                                                                                      |
+|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+|[application-tracking-system](https://github.com/samchristywork/application-tracking-system)|A web app for tracking job applications.                                                                         |
+|[collaborative-movie-list](https://github.com/samchristywork/collaborative-movie-list)      |A simple web-hosted list of movies to be collaboratively edited.                                                 |
+|[status-banner-server](https://github.com/samchristywork/status-banner-server)              |A service for displaying SVG badges and banners, and an API to update project status.                   |
+|[website-landing](https://github.com/samchristywork/website-landing)                        |The landing page for my website.                                                                                 |
+|[xkcd-web-scraper](https://github.com/samchristywork/xkcd-web-scraper)                      |A program for downloading all of the posts from xkcd.com and displaying them on a single web page.               |
 
 ## Language Breakdown
 
@@ -37,13 +36,13 @@ Here is the current breakdown of the languages used in these repositories:
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-C                                8            170            151            982
-Markdown                        19            167              0            409
+C                               11            225            245           1262
+Markdown                        22            207              0            508
 JavaScript                       7             46             89            269
 Python                           3             75             58            149
-JSON                             5              0              0            113
+JSON                             7              0              0            131
+make                            10             44              0             88
 HTML                             3              0              0             78
-make                             7             29              0             62
 CSS                              3             11              0             61
 SVG                              4              0              0             46
 Bourne Shell                     1              5              2             27
@@ -52,7 +51,7 @@ Assembly                         1              4              0             14
 TeX                              1              1              0              4
 awk                              1              1              0              4
 -------------------------------------------------------------------------------
-SUM:                            64            513            300           2235
+SUM:                            75            623            394           2658
 -------------------------------------------------------------------------------
 ```
 
