@@ -4,32 +4,32 @@ sorted them into categories and added brief descriptions for each to aid with
 navigation.
 
 ## CLI
-|Repository                                                                                  |Description                                                                                                      |
-|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-|[hello-world-collection](https://github.com/samchristywork/hello-world-collection)          |A collection of "Hello, World!" programs written in various languages.                                         |
-|[hexdump-colorful](https://github.com/samchristywork/hexdump-colorful)                      |Colorizes a hexdump to make it easier for users to pick out classes and determine the character classes of bytes.|
-|[number-naming](https://github.com/samchristywork/number-naming)                            |A collection of programs written in various languages for naming large numbers.                                |
-|[sound-trigger](https://github.com/samchristywork/sound-trigger)                            |A program that exits when an audio threshold is reached.                                                         |
+|Repository                                                                                  |Description                                                                                 |
+|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|[hello-world-collection](https://github.com/samchristywork/hello-world-collection)          |A collection of "Hello, World!" programs written in various languages.                      |
+|[hexdump-colorful](https://github.com/samchristywork/hexdump-colorful)                      |Colorizes a hexdump to make it easier for users to determine the character classes of bytes.|
+|[number-naming](https://github.com/samchristywork/number-naming)                            |A collection of programs written in various languages for naming large numbers.             |
+|[sound-trigger](https://github.com/samchristywork/sound-trigger)                            |A program that exits when an audio threshold is reached.                                    |
 
 ## Graphics
-|Repository                                                                                  |Description                                                                                                      |
-|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-|[dsml2](https://github.com/samchristywork/dsml2)                                            |An interpreter for a JSON-based language that I use to typeset documents.                                        |
-|[hilbert-unifont](https://github.com/samchristywork/hilbert-unifont)                        |Visualizing Unifont on the Hilbert Curve.                                                                        |
+|Repository                                                                                  |Description                                                                                 |
+|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|[dsml2](https://github.com/samchristywork/dsml2)                                            |An interpreter for a JSON-based language that I use to typeset documents.                   |
+|[hilbert-unifont](https://github.com/samchristywork/hilbert-unifont)                        |A program for visualizing Unifont on the Hilbert Curve.                                     |
 
 ## Mathematics
-|Repository                                                                                  |Description                                                                                                      |
-|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-|[dedekind-eta](https://github.com/samchristywork/dedekind-eta)                              |A C program that graphs the Dedekind eta function on the complex plane.                                          |
+|Repository                                                                                  |Description                                                                                 |
+|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|[dedekind-eta](https://github.com/samchristywork/dedekind-eta)                              |A C program that graphs the Dedekind eta function on the complex plane.                     |
 
 ## Web
-|Repository                                                                                  |Description                                                                                                      |
-|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-|[application-tracking-system](https://github.com/samchristywork/application-tracking-system)|A web app for tracking job applications.                                                                         |
-|[collaborative-movie-list](https://github.com/samchristywork/collaborative-movie-list)      |A simple web-hosted list of movies to be collaboratively edited.                                                 |
-|[status-banner-server](https://github.com/samchristywork/status-banner-server)              |A service for displaying SVG badges and banners, and an API to update project status.                            |
-|[website-landing](https://github.com/samchristywork/website-landing)                        |The landing page for my website.                                                                                 |
-|[xkcd-web-scraper](https://github.com/samchristywork/xkcd-web-scraper)                      |A program for downloading all of the posts from xkcd.com and displaying them on a single web page.               |
+|Repository                                                                                  |Description                                                                                 |
+|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|[application-tracking-system](https://github.com/samchristywork/application-tracking-system)|A web app for tracking job applications.                                                    |
+|[collaborative-movie-list](https://github.com/samchristywork/collaborative-movie-list)      |A simple web-hosted list of movies to be collaboratively edited.                            |
+|[status-banner-server](https://github.com/samchristywork/status-banner-server)              |A service for displaying SVG badges and banners, and an API to update project status.       |
+|[website-landing](https://github.com/samchristywork/website-landing)                        |The landing page for my website.                                                            |
+|[xkcd-web-scraper](https://github.com/samchristywork/xkcd-web-scraper)                      |A program for downloading all posts from xkcd.com and displaying them on a single web page. |
 
 ## Language Breakdown
 
@@ -41,22 +41,22 @@ Here is the current breakdown of the languages used in these repositories:
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-C                               11            225            245           1262
-Markdown                        22            207              0            508
+C                               12            260            287           1527
+Markdown                        25            259              0            713
 JavaScript                       7             46             89            269
 Python                           3             75             58            149
 JSON                             7              0              0            131
-make                            10             44              0             88
+make                            12             53              0            109
 HTML                             3              0              0             78
 CSS                              3             11              0             61
 SVG                              4              0              0             46
-Bourne Shell                     1              5              2             27
+Bourne Shell                     2              8              6             35
 C/C++ Header                     1              4              0             17
 Assembly                         1              4              0             14
 TeX                              1              1              0              4
 awk                              1              1              0              4
 -------------------------------------------------------------------------------
-SUM:                            75            623            394           2658
+SUM:                            82            722            440           3157
 -------------------------------------------------------------------------------
 ```
 
