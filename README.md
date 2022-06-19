@@ -16,6 +16,7 @@ navigation.
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |[dsml2](https://github.com/samchristywork/dsml2)                                            |An interpreter for a JSON-based language that I use to typeset documents.                   |
 |[hilbert-unifont](https://github.com/samchristywork/hilbert-unifont)                        |A program for visualizing Unifont on the Hilbert Curve.                                     |
+|[vim-paint](https://github.com/samchristywork/vim-paint)                                    |What Vim would look like if it was an image editor instead of a text editor.                |
 
 ## Mathematics
 |Repository                                                                                  |Description                                                                                 |
@@ -42,12 +43,12 @@ Here is the current breakdown of the languages used in these repositories:
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-C                               12            260            287           1527
-Markdown                        25            259              0            713
+C                               15            298            349           1669
+Markdown                        27            268              0            740
 JavaScript                       7             46             89            269
 Python                           3             75             58            149
+make                            15             67              0            135
 JSON                             7              0              0            131
-make                            12             53              0            109
 HTML                             3              0              0             78
 CSS                              3             11              0             61
 SVG                              4              0              0             46
@@ -57,7 +58,7 @@ Assembly                         1              4              0             14
 TeX                              1              1              0              4
 awk                              1              1              0              4
 -------------------------------------------------------------------------------
-SUM:                            82            722            440           3157
+SUM:                            90            783            502           3352
 -------------------------------------------------------------------------------
 ```
 
