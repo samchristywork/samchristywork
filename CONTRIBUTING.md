@@ -16,4 +16,5 @@ that way. I will not approve pull requests, and I respectfully ask that you
 don't contribute in other ways, such as watching, forking, or starring the
 repositories.
 
-Thank you.
+Thank you,
+Sam
