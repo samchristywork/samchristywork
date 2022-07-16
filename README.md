@@ -6,6 +6,7 @@ navigation.
 ## CLI
 |Repository                                                                                  |Description                                                                                 |
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|[full-text-search](https://github.com/samchristywork/full-text-search)                      |A program for fast lookup of tokens in large bodies of text.                                |
 |[hello-world-collection](https://github.com/samchristywork/hello-world-collection)          |A collection of "Hello, World!" programs written in various languages.                      |
 |[hexdump-colorful](https://github.com/samchristywork/hexdump-colorful)                      |Colorizes a hexdump to make it easier for users to determine the character classes of bytes.|
 |[number-naming](https://github.com/samchristywork/number-naming)                            |A collection of programs written in various languages for naming large numbers.             |
