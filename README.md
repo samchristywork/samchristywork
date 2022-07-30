@@ -8,7 +8,6 @@ navigation.
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |[arithmetic-expression-parser](https://github.com/samchristywork/arithmetic-expression-parser)|This simple parser parses and evaluates arithmetic expressions.                             |
 |[full-text-search](https://github.com/samchristywork/full-text-search)                        |A program for fast lookup of tokens in large bodies of text.                                |
-|[hello-world-collection](https://github.com/samchristywork/hello-world-collection)            |A collection of "Hello, World!" programs written in various languages.                      |
 |[hexdump-colorful](https://github.com/samchristywork/hexdump-colorful)                        |Colorizes a hexdump to make it easier for users to determine the character classes of bytes.|
 |[number-naming](https://github.com/samchristywork/number-naming)                              |A collection of programs written in various languages for naming large numbers.             |
 |[sound-trigger](https://github.com/samchristywork/sound-trigger)                              |A program that exits when an audio threshold is reached.                                    |
@@ -34,6 +33,12 @@ navigation.
 |[status-banner-server](https://github.com/samchristywork/status-banner-server)                |A service for displaying SVG badges and banners, and an API to update project status.       |
 |[website-landing](https://github.com/samchristywork/website-landing)                          |The landing page for my website.                                                            |
 |[xkcd-web-scraper](https://github.com/samchristywork/xkcd-web-scraper)                        |A program for downloading all posts from xkcd.com and displaying them on a single web page. |
+
+## Other
+|Repository                                                                                    |Description                                                                                 |
+|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|[code-snippets](https://github.com/samchristywork/code-snippets)                              |A collection of code fragments or small programs that I find interesting or useful.         |
+|[hello-world-collection](https://github.com/samchristywork/hello-world-collection)            |A collection of "Hello, World!" programs written in various languages.                      |
 
 ## Language Breakdown
 
