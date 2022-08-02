@@ -9,6 +9,7 @@ navigation.
 |[arithmetic-expression-parser](https://github.com/samchristywork/arithmetic-expression-parser)|This simple parser parses and evaluates arithmetic expressions.                             |
 |[full-text-search](https://github.com/samchristywork/full-text-search)                        |A program for fast lookup of tokens in large bodies of text.                                |
 |[hexdump-colorful](https://github.com/samchristywork/hexdump-colorful)                        |Colorizes a hexdump to make it easier for users to determine the character classes of bytes.|
+|[inotify-trigger](https://github.com/samchristywork/inotify-trigger)                          |Program to run commands on file changes using the inotify mechanism.                        |
 |[number-naming](https://github.com/samchristywork/number-naming)                              |A collection of programs written in various languages for naming large numbers.             |
 |[sound-trigger](https://github.com/samchristywork/sound-trigger)                              |A program that exits when an audio threshold is reached.                                    |
 
@@ -47,32 +48,32 @@ Here is the current breakdown of the languages used in these repositories:
 </p>
 
 ```
-Line counts as of Thu 28 Jul 2022 09:38:24 PM CDT:
+Line counts as of Mon 01 Aug 2022 10:32:19 PM CDT:
 
 -----------------------------------------------------------------------------------
 Language                         files          blank        comment           code
 -----------------------------------------------------------------------------------
-C                                   37            504            733           3019
-Markdown                            42            415              0           1330
+C                                   37            503            773           3019
+Markdown                            42            417              0           1339
 JSON                                13              0              0            432
-make                                28            135              0            319
+make                                28            139              0            323
 JavaScript                           8             54            157            305
-Bourne Shell                         6             34             27            174
-Python                               3             78             58            167
+Bourne Shell                         8             42             28            192
+Python                               4             82             58            188
 HTML                                 4              2              1            109
-C/C++ Header                         9             27              8             94
+C/C++ Header                         9             27             31             94
 SVG                                  6              0              0             74
 CSS                                  4             11              0             65
 yacc                                 1             15             19             41
 VHDL                                 1              5              0             21
 Verilog-SystemVerilog                1              6             44             20
 Assembly                             1              4              0             14
+awk                                  2              2              0              8
 TeX                                  1              1              0              4
-awk                                  1              1              0              4
 CMake                                1              0              0              3
 Lua                                  1              0              0              1
 -----------------------------------------------------------------------------------
-SUM:                               168           1292           1047           6196
+SUM:                               172           1310           1111           6252
 -----------------------------------------------------------------------------------
 ```
 
