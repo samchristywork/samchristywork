@@ -3,6 +3,11 @@ Below I have listed all of the repositories I maintain on this account. I've
 sorted them into categories and added brief descriptions for each to aid with
 navigation.
 
+## Featured
+|[algorithms](https://github.com/samchristywork/algorithms)                                    |My own implementations of various algorithms. Generally written in C.                       |
+|[arithmetic-expression-parser](https://github.com/samchristywork/arithmetic-expression-parser)|This simple parser parses and evaluates arithmetic expressions.                             |
+|[dsml2](https://github.com/samchristywork/dsml2)                                              |An interpreter for a JSON-based language that I use to typeset documents.                   |
+
 ## CLI
 |Repository                                                                                    |Description                                                                                 |
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
