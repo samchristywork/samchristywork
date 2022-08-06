@@ -43,6 +43,7 @@ navigation.
 ## Other
 |Repository                                                                                    |Description                                                                                 |
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|[algorithms](https://github.com/samchristywork/algorithms)                                    |My own implementations of various algorithms. Generally written in C.                       |
 |[code-snippets](https://github.com/samchristywork/code-snippets)                              |A collection of code fragments or small programs that I find interesting or useful.         |
 |[hello-world-collection](https://github.com/samchristywork/hello-world-collection)            |A collection of "Hello, World!" programs written in various languages.                      |
 
