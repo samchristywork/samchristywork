@@ -6,9 +6,11 @@ navigation.
 ## Featured
 |Repository                                                                                    |Description                                                                                 |
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-|[algorithms](https://github.com/samchristywork/algorithms)                                    |My own implementations of various algorithms. Generally written in C.                       |
 |[arithmetic-expression-parser](https://github.com/samchristywork/arithmetic-expression-parser)|This simple parser parses and evaluates arithmetic expressions.                             |
 |[dsml2](https://github.com/samchristywork/dsml2)                                              |An interpreter for a JSON-based language that I use to typeset documents.                   |
+|[full-text-search](https://github.com/samchristywork/full-text-search)                        |A program for fast lookup of tokens in large bodies of text.                                |
+|[hexdump-colorful](https://github.com/samchristywork/hexdump-colorful)                        |Colorizes a hexdump to make it easier for users to determine the character classes of bytes.|
+|[inotify-trigger](https://github.com/samchristywork/inotify-trigger)                          |Program to run commands on file changes using the inotify mechanism.                        |
 
 ## CLI
 |Repository                                                                                    |Description                                                                                 |
