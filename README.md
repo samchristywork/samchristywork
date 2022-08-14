@@ -21,6 +21,7 @@ navigation.
 |[inotify-trigger](https://github.com/samchristywork/inotify-trigger)                          |Program to run commands on file changes using the inotify mechanism.                        |
 |[number-naming](https://github.com/samchristywork/number-naming)                              |A collection of programs written in various languages for naming large numbers.             |
 |[sound-trigger](https://github.com/samchristywork/sound-trigger)                              |A program that exits when an audio threshold is reached.                                    |
+|[terminal-calendar](https://github.com/samchristywork/terminal-calendar)                      |A calendar application for the terminal.                                                    |
 
 ## Graphics
 |Repository                                                                                    |Description                                                                                 |
@@ -58,17 +59,17 @@ Here is the current breakdown of the languages used in these repositories:
 </p>
 
 ```
-Line counts as of Mon 08 Aug 2022 08:07:31 PM CDT:
+Line counts as of Sun 14 Aug 2022 09:11:33 AM CDT:
 
 -----------------------------------------------------------------------------------
 Language                         files          blank        comment           code
 -----------------------------------------------------------------------------------
-C                                   41            566            838           3412
+C                                   44            623            896           3673
 Markdown                            44            423              0           1376
 JSON                                13              0              0            432
-make                                30            149              0            341
+make                                31            157              0            358
 JavaScript                           8             54            157            305
-Bourne Shell                         8             42             28            192
+Bourne Shell                         9             47             30            206
 Python                               4             82             58            188
 HTML                                 4              2              1            109
 C/C++ Header                         9             27             31             94
@@ -83,7 +84,7 @@ TeX                                  1              1              0            
 CMake                                1              0              0              3
 Lua                                  1              0              0              1
 -----------------------------------------------------------------------------------
-SUM:                               180           1389           1176           6700
+SUM:                               185           1459           1236           6992
 -----------------------------------------------------------------------------------
 ```
 
