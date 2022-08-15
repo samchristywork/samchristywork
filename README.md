@@ -49,6 +49,7 @@ navigation.
 |Repository                                                                                    |Description                                                                                 |
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |[algorithms](https://github.com/samchristywork/algorithms)                                    |My own implementations of various algorithms. Generally written in C.                       |
+|[bugs](https://github.com/samchristywork/bugs)                                                |A place to track bugs I find in the wild.                                                   |
 |[code-snippets](https://github.com/samchristywork/code-snippets)                              |A collection of code fragments or small programs that I find interesting or useful.         |
 |[hello-world-collection](https://github.com/samchristywork/hello-world-collection)            |A collection of "Hello, World!" programs written in various languages.                      |
 
@@ -59,15 +60,15 @@ Here is the current breakdown of the languages used in these repositories:
 </p>
 
 ```
-Line counts as of Sun 14 Aug 2022 09:11:33 AM CDT:
+Line counts as of Sun 14 Aug 2022 08:03:33 PM CDT:
 
 -----------------------------------------------------------------------------------
 Language                         files          blank        comment           code
 -----------------------------------------------------------------------------------
 C                                   44            623            896           3673
-Markdown                            44            423              0           1376
+Markdown                            44            423              0           1377
 JSON                                13              0              0            432
-make                                31            157              0            358
+make                                32            162              0            367
 JavaScript                           8             54            157            305
 Bourne Shell                         9             47             30            206
 Python                               4             82             58            188
@@ -84,7 +85,7 @@ TeX                                  1              1              0            
 CMake                                1              0              0              3
 Lua                                  1              0              0              1
 -----------------------------------------------------------------------------------
-SUM:                               185           1459           1236           6992
+SUM:                               186           1464           1236           7002
 -----------------------------------------------------------------------------------
 ```
 
