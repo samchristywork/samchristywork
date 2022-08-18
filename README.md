@@ -11,6 +11,7 @@ navigation.
 |[full-text-search](https://github.com/samchristywork/full-text-search)                        |A program for fast lookup of tokens in large bodies of text.                                |
 |[hexdump-colorful](https://github.com/samchristywork/hexdump-colorful)                        |Colorizes a hexdump to make it easier for users to determine the character classes of bytes.|
 |[inotify-trigger](https://github.com/samchristywork/inotify-trigger)                          |Program to run commands on file changes using the inotify mechanism.                        |
+|[terminal-calendar](https://github.com/samchristywork/terminal-calendar)                      |A calendar application for the terminal.                                                    |
 
 ## CLI
 |Repository                                                                                    |Description                                                                                 |
@@ -28,7 +29,6 @@ navigation.
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |[dsml2](https://github.com/samchristywork/dsml2)                                              |An interpreter for a JSON-based language that I use to typeset documents.                   |
 |[hilbert-unifont](https://github.com/samchristywork/hilbert-unifont)                          |A program for visualizing Unifont on the Hilbert Curve.                                     |
-|[vim-paint](https://github.com/samchristywork/vim-paint)                                      |What Vim would look like if it was an image editor instead of a text editor.                |
 
 ## Mathematics
 |Repository                                                                                    |Description                                                                                 |
@@ -39,7 +39,6 @@ navigation.
 ## Web
 |Repository                                                                                    |Description                                                                                 |
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-|[application-tracking-system](https://github.com/samchristywork/application-tracking-system)  |A web app for tracking job applications.                                                    |
 |[collaborative-movie-list](https://github.com/samchristywork/collaborative-movie-list)        |A simple web-hosted list of movies to be collaboratively edited.                            |
 |[status-banner-server](https://github.com/samchristywork/status-banner-server)                |A service for displaying SVG badges and banners, and an API to update project status.       |
 |[website-landing](https://github.com/samchristywork/website-landing)                          |The landing page for my website.                                                            |
@@ -53,6 +52,12 @@ navigation.
 |[code-snippets](https://github.com/samchristywork/code-snippets)                              |A collection of code fragments or small programs that I find interesting or useful.         |
 |[hello-world-collection](https://github.com/samchristywork/hello-world-collection)            |A collection of "Hello, World!" programs written in various languages.                      |
 
+## Deprecated
+|Repository                                                                                    |Description                                                                                 |
+|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|[application-tracking-system](https://github.com/samchristywork/application-tracking-system)  |A web app for tracking job applications.                                                    |
+|[vim-paint](https://github.com/samchristywork/vim-paint)                                      |What Vim would look like if it was an image editor instead of a text editor.                |
+
 ## Language Breakdown
 
 <p>
@@ -60,20 +65,20 @@ Here is the current breakdown of the languages used in these repositories:
 </p>
 
 ```
-Line counts as of Sun 14 Aug 2022 08:03:33 PM CDT:
+Line counts as of Wed 17 Aug 2022 09:14:36 PM CDT:
 
 -----------------------------------------------------------------------------------
 Language                         files          blank        comment           code
 -----------------------------------------------------------------------------------
-C                                   44            623            896           3673
-Markdown                            44            423              0           1377
-JSON                                13              0              0            432
-make                                32            162              0            367
-JavaScript                           8             54            157            305
-Bourne Shell                         9             47             30            206
+C                                   44            675            896           3921
+Markdown                            44            425              0           1382
+JSON                                13              0              0            433
+make                                33            166              0            382
+JavaScript                           8             54            157            310
+Bourne Shell                        10             48             30            208
 Python                               4             82             58            188
 HTML                                 4              2              1            109
-C/C++ Header                         9             27             31             94
+C/C++ Header                        10             29             31             98
 SVG                                  6              0              0             74
 CSS                                  4             11              0             65
 yacc                                 1             15             19             41
@@ -85,7 +90,7 @@ TeX                                  1              1              0            
 CMake                                1              0              0              3
 Lua                                  1              0              0              1
 -----------------------------------------------------------------------------------
-SUM:                               186           1464           1236           7002
+SUM:                               189           1525           1236           7282
 -----------------------------------------------------------------------------------
 ```
 
