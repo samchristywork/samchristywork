@@ -35,6 +35,7 @@ navigation.
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |[dedekind-eta](https://github.com/samchristywork/dedekind-eta)                                |A C program that graphs the Dedekind eta function on the complex plane.                     |
 |[logistic-map-libpng](https://github.com/samchristywork/logistic-map-libpng)                  |Uses libpng to produce the bifurcation diagram of the logistic map.                         |
+|[turing-machine](https://github.com/samchristywork/turing-machine)                            |A simple Turing Machine with replaceable programs.                                          |
 
 ## Web
 |Repository                                                                                    |Description                                                                                 |
