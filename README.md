@@ -66,20 +66,20 @@ Here is the current breakdown of the languages used in these repositories:
 </p>
 
 ```
-Line counts as of Fri 26 Aug 2022 11:33:10 PM CDT:
+Line counts as of Fri 02 Sep 2022 10:17:13 PM CDT:
 
 -----------------------------------------------------------------------------------
 Language                         files          blank        comment           code
 -----------------------------------------------------------------------------------
-C                                   46            719            992           4205
-Markdown                            46            465              0           1553
-JSON                                13              0              0            433
-make                                33            168              0            385
-JavaScript                           8             56            157            315
-Bourne Shell                        10             48             30            208
+C                                   47            767           1009           4581
+Markdown                            46            465              0           1557
+JSON                                16              0              0            467
+make                                34            173              0            395
+JavaScript                           9             62            157            361
+Bourne Shell                        11             50             31            212
 Python                               4             82             58            188
+HTML                                 5              2              1            127
 C/C++ Header                        11             35             31            110
-HTML                                 4              2              1            109
 CSS                                  4             11              0             65
 vim script                           1              7             12             42
 yacc                                 1             15             19             41
@@ -91,7 +91,7 @@ TeX                                  1              1              0            
 CMake                                1              0              0              3
 Lua                                  1              0              0              1
 -----------------------------------------------------------------------------------
-SUM:                               189           1626           1344           7725
+SUM:                               197           1687           1362           8217
 -----------------------------------------------------------------------------------
 ```
 
