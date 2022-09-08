@@ -12,6 +12,7 @@ navigation.
 |[hexdump-colorful](https://github.com/samchristywork/hexdump-colorful)                        |Colorizes a hexdump to make it easier for users to determine the character classes of bytes.|
 |[inotify-trigger](https://github.com/samchristywork/inotify-trigger)                          |Program to run commands on file changes using the inotify mechanism.                        |
 |[terminal-calendar](https://github.com/samchristywork/terminal-calendar)                      |A calendar application for the terminal.                                                    |
+|[turing-machine](https://github.com/samchristywork/turing-machine)                            |A simple Turing Machine with replaceable programs.                                          |
 
 ## CLI
 |Repository                                                                                    |Description                                                                                 |
