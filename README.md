@@ -60,42 +60,6 @@ navigation.
 |[application-tracking-system](https://github.com/samchristywork/application-tracking-system)  |A web app for tracking job applications.                                                    |
 |[vim-paint](https://github.com/samchristywork/vim-paint)                                      |What Vim would look like if it was an image editor instead of a text editor.                |
 
-## Language Breakdown
-
-<p>
-Here is the current breakdown of the languages used in these repositories:
-</p>
-
-```
-Line counts as of Sun 04 Sep 2022 10:36:23 PM CDT:
-
------------------------------------------------------------------------------------
-Language                         files          blank        comment           code
------------------------------------------------------------------------------------
-C                                   47            773           1009           4636
-Markdown                            46            465              0           1557
-JSON                                16              0              0            467
-make                                34            173              0            395
-JavaScript                           9             62            157            361
-Bourne Shell                        11             50             31            212
-Python                               4             82             58            188
-HTML                                 5              2              1            127
-C/C++ Header                        11             35             31            110
-CSS                                  4             11              0             65
-vim script                           1              7             12             42
-yacc                                 1             15             19             41
-VHDL                                 1              5              0             21
-Verilog-SystemVerilog                1              6             44             20
-Assembly                             1              4              0             14
-awk                                  2              2              0              8
-TeX                                  1              1              0              4
-CMake                                1              0              0              3
-Lua                                  1              0              0              1
------------------------------------------------------------------------------------
-SUM:                               197           1693           1362           8272
------------------------------------------------------------------------------------
-```
-
 ## License
 
 All of the code in these repositories is licensed under the GNU General Public
