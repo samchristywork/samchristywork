@@ -60,6 +60,7 @@ navigation.
 |Repository                                                                                                                                                       |Description                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |<img src="https://s-christy.com/icons/nodejs.png" height=20></img> [application-tracking-system](https://github.com/samchristywork/application-tracking-system)  |A web app for tracking job applications.                                                    |
+|<img src="https://s-christy.com/icons/rust.png"   height=20></img> [changelog-generator](https://github.com/samchristywork/changelog-generator)                  |A simple utility for generating changelogs from commit histories.                           |
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [vim-paint](https://github.com/samchristywork/vim-paint)                                      |What Vim would look like if it was an image editor instead of a text editor.                |
 
 ## License
