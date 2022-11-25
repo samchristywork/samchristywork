@@ -12,6 +12,7 @@ navigation.
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [full-text-search](https://github.com/samchristywork/full-text-search)                        |A program for fast lookup of tokens in large bodies of text.                                |
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [hexdump-colorful](https://github.com/samchristywork/hexdump-colorful)                        |Colorizes a hexdump to make it easier for users to determine the character classes of bytes.|
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [inotify-trigger](https://github.com/samchristywork/inotify-trigger)                          |Program to run commands on file changes using the inotify mechanism.                        |
+|<img src="https://s-christy.com/icons/cpp.png"    height=20></img> [log-viewer](https://github.com/samchristywork/log-viewer)                                    |A GUI application for viewing distributed logging infrastructure.                           |
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [terminal-calendar](https://github.com/samchristywork/terminal-calendar)                      |A calendar application for the terminal.                                                    |
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [turing-machine](https://github.com/samchristywork/turing-machine)                            |A simple Turing Machine with replaceable programs.                                          |
 
@@ -32,6 +33,7 @@ navigation.
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [dsml2](https://github.com/samchristywork/dsml2)                                              |An interpreter for a JSON-based language that I use to typeset documents.                   |
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [hilbert-unifont](https://github.com/samchristywork/hilbert-unifont)                          |A program for visualizing Unifont on the Hilbert Curve.                                     |
+|<img src="https://s-christy.com/icons/cpp.png"    height=20></img> [log-viewer](https://github.com/samchristywork/log-viewer)                                    |A GUI application for viewing distributed logging infrastructure.                           |
 
 ## Mathematics
 |Repository                                                                                                                                                       |Description                                                                                 |
