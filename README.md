@@ -40,6 +40,11 @@ third-party libraries, concurrency, and graphics.
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [terminal-calendar](https://github.com/samchristywork/terminal-calendar)                      |A calendar application for the terminal.                                                    |
 
 ## Graphics
+
+These programs either have a graphical front-end or visual output. I prefer
+GTK+3.0 for Linux GUI programming, but I generally use wxWidgets if I need
+something even remotely cross-platform.
+
 |Repository                                                                                                                                                       |Description                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [dsml2](https://github.com/samchristywork/dsml2)                                              |An interpreter for a JSON-based language that I use to typeset documents.                   |
@@ -47,6 +52,12 @@ third-party libraries, concurrency, and graphics.
 |<img src="https://s-christy.com/icons/cpp.png"    height=20></img> [log-viewer](https://github.com/samchristywork/log-viewer)                                    |A GUI application for viewing distributed logging infrastructure.                           |
 
 ## Mathematics
+
+Math is a fun subject in programming projects because it is typically
+algorithm-heavy and relies more on how clever you are with a programming
+language's core concepts and less on how good you are at leveraging existing
+libraries and programs.
+
 |Repository                                                                                                                                                       |Description                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [dedekind-eta](https://github.com/samchristywork/dedekind-eta)                                |A C program that graphs the Dedekind eta function on the complex plane.                     |
@@ -54,6 +65,12 @@ third-party libraries, concurrency, and graphics.
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [turing-machine](https://github.com/samchristywork/turing-machine)                            |A simple Turing Machine with replaceable programs.                                          |
 
 ## Web
+
+I am not a web programmer, but I push myself to make web projects anyway because
+of the relevance that web programming has had in the industry over the past
+decade or so. Historically, I have focused on Node.js as a foundation for web
+projects, but I am transitioning to a Rust/Actix foundation for future work.
+
 |Repository                                                                                                                                                       |Description                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |<img src="https://s-christy.com/icons/nodejs.png" height=20></img> [collaborative-movie-list](https://github.com/samchristywork/collaborative-movie-list)        |A simple web-hosted list of movies to be collaboratively edited.                            |
@@ -62,6 +79,11 @@ third-party libraries, concurrency, and graphics.
 |<img src="https://s-christy.com/icons/bash.png"   height=20></img> [xkcd-web-scraper](https://github.com/samchristywork/xkcd-web-scraper)                        |A program for downloading all posts from xkcd.com and displaying them on a single web page. |
 
 ## Other
+
+These are repositories that don't comfortably fit anywhere else. These are
+primarily collections of snippets, one-offs, and data and are not organized like
+traditional software packages.
+
 |Repository                                                                         |Description                                                                                 |
 |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |[algorithms](https://github.com/samchristywork/algorithms)                         |My own implementations of various algorithms. Generally written in C.                       |
