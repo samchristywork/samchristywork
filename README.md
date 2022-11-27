@@ -4,6 +4,11 @@ sorted them into categories and added brief descriptions for each to aid with
 navigation.
 
 ## Featured
+
+I've selected these repositories because they accurately reflect my interests,
+coding ability, and general programming style. Read these first if you want a
+good idea of who I am as an engineer.
+
 |Repository                                                                                                                                                       |Description                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [arithmetic-expression-parser](https://github.com/samchristywork/arithmetic-expression-parser)|This simple parser parses and evaluates arithmetic expressions.                             |
@@ -17,6 +22,12 @@ navigation.
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [turing-machine](https://github.com/samchristywork/turing-machine)                            |A simple Turing Machine with replaceable programs.                                          |
 
 ## CLI
+
+These are programs that have either a primitive TUI-based interface or none at
+all. These projects focus on algorithms, systems programming, and "pure"
+programming without getting too into the weeds with messy concepts like
+third-party libraries, concurrency, and graphics.
+
 |Repository                                                                                                                                                       |Description                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |<img src="https://s-christy.com/icons/c.png"      height=20></img> [arithmetic-expression-parser](https://github.com/samchristywork/arithmetic-expression-parser)|This simple parser parses and evaluates arithmetic expressions.                             |
