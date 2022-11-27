@@ -69,6 +69,22 @@ third-party libraries, concurrency, and graphics.
 |[code-snippets](https://github.com/samchristywork/code-snippets)                   |A collection of code fragments or small programs that I find interesting or useful.         |
 |[hello-world-collection](https://github.com/samchristywork/hello-world-collection) |A collection of "Hello, World!" programs written in various languages.                      |
 
+## Gallery
+
+<img src="./images/calendar_screenshot_1.png" width=250></img>
+<img src="./images/cnc_screenshot.png" width=250></img>
+<img src="./images/creature_screenshot_1.png" width=250></img>
+<img src="./images/creature_screenshot_2.png" width=250></img>
+<img src="./images/dedekind_screenshot_1.png" width=250></img>
+<img src="./images/hexdump_screenshot_1.png" width=250></img>
+<img src="./images/hexdump_screenshot_2.png" width=250></img>
+<img src="./images/hilbert_screenshot_1.png" width=250></img>
+<img src="./images/hilbert_screenshot_2.png" width=250></img>
+<img src="./images/hilbert_screenshot_3.png" width=250></img>
+<img src="./images/hilbert_screenshot_4.png" width=250></img>
+<img src="./images/logistic_screenshot_1.png" width=250></img>
+<img src="./images/log_screenshot_1.png" width=250></img>
+
 ## Deprecated
 |Repository                                                                                                                                                       |Description                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
