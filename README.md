@@ -108,6 +108,11 @@ traditional software packages.
 <img src="./images/log_screenshot_1.png" width=250></img>
 
 ## Deprecated
+
+Failure is unfortunate, but it is ultimately a better teacher than success.
+These are repositories that I intended to complete but, for one reason or
+another, had to abandon.
+
 |Repository                                                                                                                                                       |Description                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |<img src="https://s-christy.com/icons/nodejs.png" height=20></img> [application-tracking-system](https://github.com/samchristywork/application-tracking-system)  |A web app for tracking job applications.                                                    |
