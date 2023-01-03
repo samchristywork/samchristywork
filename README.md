@@ -107,11 +107,9 @@ traditional software packages.
 <img src="./images/logistic_screenshot_1.png" width=250></img>
 <img src="./images/log_screenshot_1.png" width=250></img>
 
-## Deprecated
+## Deprecated/Incomplete
 
-Failure is unfortunate, but it is ultimately a better teacher than success.
-These are repositories that I intended to complete but, for one reason or
-another, had to abandon.
+These are incomplete or abandoned repositories.
 
 |Repository                                                                                                                                                       |Description                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
