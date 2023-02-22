@@ -74,6 +74,7 @@ projects, but I am transitioning to a Rust/Actix foundation for future work.
 |Repository                                                                                                                                                       |Description                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |<img src="https://s-christy.com/icons/nodejs.png" height=20></img> [collaborative-movie-list](https://github.com/samchristywork/collaborative-movie-list)        |A simple web-hosted list of movies to be collaboratively edited.                            |
+|<img src="https://s-christy.com/icons/nodejs.png" height=20></img> [recipe-manager](https://github.com/samchristywork/recipe-manager)                            |An application to calculate nutritional information for recipes.                            |
 |<img src="https://s-christy.com/icons/nodejs.png" height=20></img> [status-banner-server](https://github.com/samchristywork/status-banner-server)                |A service for displaying SVG badges and banners, and an API to update project status.       |
 |<img src="https://s-christy.com/icons/nodejs.png" height=20></img> [website-landing](https://github.com/samchristywork/website-landing)                          |The landing page for my website.                                                            |
 |<img src="https://s-christy.com/icons/bash.png"   height=20></img> [xkcd-web-scraper](https://github.com/samchristywork/xkcd-web-scraper)                        |A program for downloading all posts from xkcd.com and displaying them on a single web page. |
@@ -106,6 +107,8 @@ traditional software packages.
 <img src="./images/hilbert_screenshot_4.png" width=250></img>
 <img src="./images/logistic_screenshot_1.png" width=250></img>
 <img src="./images/log_screenshot_1.png" width=250></img>
+<img src="./images/recipe_screenshot_1.png" width=250></img>
+<img src="./images/recipe_screenshot_2.png" width=250></img>
 
 ## Deprecated/Incomplete
 
