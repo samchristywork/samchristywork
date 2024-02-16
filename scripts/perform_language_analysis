@@ -1,0 +1,22 @@
+#!/bin/bash
+
+cut -d'|' -f1 data/repos | while read -r repo; do
+  printf "$repo:"
+  w3m -dump "https://github.com/samchristywork/$repo" | \
+    awk '
+      BEGIN{a=0} /^$/ {next}
+      /^Languages$/{a=1; next}
+      /^Footer$/{a=0; next}
+      {if (a) {print $0}}
+    ' | \
+    sort -u | \
+    tr -d '•' | \
+    sed 's/\s\+/ /g' | \
+    sed 's/^\s//g' | \
+    sed 's/\s.\+//g' | \
+    tr '\n' "," | \
+    sed 's/,$//g'
+  echo
+
+  sleep 1
+done | tee data/languages
