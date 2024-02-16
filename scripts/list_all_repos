@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gh api users/samchristywork/repos --paginate  --jq '.[] | "\(.name)|\(.description)"'
