@@ -14,19 +14,10 @@ cat data/languages | \
     print "Language\tCount\tPercentage"
     print "--------\t-----\t----------"
   }
+  / HTML$/ {next}
+  / CSS$/ {next}
+  / Makefile$/ {next}
   {
-    if ($2 == "HTML") {
-      next
-    }
-
-    if ($2 == "CSS") {
-      next
-    }
-
-    if ($2 == "Makefile") {
-      next
-    }
-
     percentage=$1*100/'$(wc -l < data/languages)'
     if (percentage > 5) {
       printf "%s\t%d\t%2.2f%%\n", $2, $1, percentage
