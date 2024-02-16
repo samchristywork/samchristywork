@@ -3,7 +3,19 @@ Below I have listed all of the repositories I maintain on this account. I've
 sorted them into categories and added brief descriptions for each to aid with
 navigation.
 
-## Featured
+Language summary generated on
+Mon Feb 12 03:57:59 PM CST 2024
+
+Language   | Count | Percentage
+--------   | ----- | ----------
+C          | 25    | 23.58%
+C++        | 13    | 12.26%
+Go         | 13    | 12.26%
+JavaScript | 22    | 20.75%
+Rust       | 27    | 25.47%
+Shell      | 22    | 20.75%
+
+## Featured Repositories
 
 I've selected these repositories because they accurately reflect my interests,
 coding ability, and general programming style. Read these first if you want a
