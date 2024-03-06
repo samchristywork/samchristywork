@@ -1,9 +1,5 @@
 #!/bin/bash
 
-echo Language summary generated on
-date
-echo
-
 cat data/languages | \
   cut -f2 -d: | \
   sed 's/,/\n/g' | \
@@ -11,8 +7,9 @@ cat data/languages | \
   uniq -c | \
   sed 1d | \
   awk 'BEGIN{
-    print "Language\tCount\tPercentage"
-    print "--------\t-----\t----------"
+    print "Language\tCount\tPercentage\tExamples"
+    print "--------\t-----\t----------\t--------"
+    other=0
   }
   / HTML$/ {next}
   / CSS$/ {next}
@@ -20,8 +17,15 @@ cat data/languages | \
   {
     percentage=$1*100/'$(wc -l < data/languages)'
     if (percentage > 5) {
-      printf "%s\t%d\t%2.2f%%\n", $2, $1, percentage
+      printf "%s\t%d\t%2.2f%%\t<a href=\"%s\">link</a>\n", $2, $1, percentage, $2
+    }else{
+      other+=$1
     }
+  }
+  END {
+    printf "Other\t%d\t%2.2f%%\t--\n", other, other*100/'$(wc -l < data/languages)'
   }' | \
   column -t -s'	' -o' | '
+echo
+echo "(Last updated: $(date))"
 echo
