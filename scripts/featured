@@ -1,0 +1,21 @@
+#!/bin/bash
+
+function makeLine() {
+  echo "<img src=\"https://cdn.simpleicons.org/$1/777\" height=20></img> | <a href=\"$2\">$3</a> | $4"
+}
+
+echo "## Featured Repositories"
+echo
+cat << EOF
+I've selected these repositories because they accurately reflect my interests,
+coding ability, and general programming style. Read these first if you want a
+good idea of who I am as an engineer.
+EOF
+echo
+echo "Language(s) | Repository | Description"
+echo "----------- | ---------- | -----------"
+makeLine "C++" "https://github.com/samchristywork/thyme" "Thyme" "A program for printing the status of long-running jobs."
+makeLine "apachemaven" "https://github.com/samchristywork/tree-viewer" "Tree Viewer" "A desktop application for viewing and manipulating trees."
+makeLine "Rust" "https://github.com/samchristywork/transclude" "Transclude" "A program that recursively includes documents within others."
+makeLine "C" "https://github.com/samchristywork/boids" "Boids" "A C implementation and visualization of the "Boids" artificial life simulation."
+echo
