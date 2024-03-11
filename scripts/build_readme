@@ -1,0 +1,10 @@
+#!/bin/bash
+
+(
+cat assets/intro.md
+echo
+./scripts/language_summary
+./scripts/featured
+./scripts/gallery
+cat assets/license.md
+) | tee README.md
