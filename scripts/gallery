@@ -1,0 +1,12 @@
+#!/bin/bash
+
+function makeImage() {
+  echo '<a href="'$1'"><img src="'$2'" width=250></img></a>'
+}
+
+echo "## Gallery"
+echo
+while read line; do
+  makeImage $line
+done < assets/gallery.txt
+echo
