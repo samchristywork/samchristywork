@@ -41,21 +41,18 @@ Lang(s) | Repository | Description
 
 ## Gallery
 
-<a href="https://example.com"><img src="./images/calendar_screenshot_1.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/cnc_screenshot.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/creature_screenshot_1.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/creature_screenshot_2.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/dedekind_screenshot_1.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/hexdump_screenshot_1.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/hexdump_screenshot_2.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/hilbert_screenshot_1.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/hilbert_screenshot_2.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/hilbert_screenshot_3.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/hilbert_screenshot_4.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/logistic_screenshot_1.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/log_screenshot_1.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/recipe_screenshot_1.png" width=250></img></a>
-<a href="https://example.com"><img src="./images/recipe_screenshot_2.png" width=250></img></a>
+<a href="https://github.com/samchristywork/hexdump-colorful"><img src="https://raw.githubusercontent.com/samchristywork/hexdump-colorful/main/example/color_key.png" width=250></img></a>
+<a href="https://github.com/samchristywork/hexdump-colorful"><img src="https://raw.githubusercontent.com/samchristywork/hexdump-colorful/main/example/selecting_classes.png" width=250></img></a>
+<a href="https://github.com/samchristywork/tree-viewer"><img src="https://raw.githubusercontent.com/samchristywork/tree-viewer/main/assets/screenshot-light.png" width=250></img></a>
+<a href="https://github.com/samchristywork/thyme"><img src="https://raw.githubusercontent.com/samchristywork/thyme/main/assets/screenshot.png" width=250></img></a>
+<a href="https://github.com/samchristywork/terminal-calendar"><img src="https://raw.githubusercontent.com/samchristywork/terminal-calendar/main/sample_annotated.png" width=250></img></a>
+<a href="https://github.com/samchristywork/log-viewer"><img src="https://raw.githubusercontent.com/samchristywork/log-viewer/main/res/screenshot.png" width=250></img></a>
+<a href="https://github.com/samchristywork/minesweeper"><img src="https://raw.githubusercontent.com/samchristywork/minesweeper/main/screenshots/image_1.png" width=250></img></a>
+<a href="https://github.com/samchristywork/boids"><img src="https://raw.githubusercontent.com/samchristywork/boids/main/res/screenshot.png" width=250></img></a>
+<a href="https://github.com/samchristywork/transclude"><img src="https://raw.githubusercontent.com/samchristywork/transclude/32926b1161d298a278e23e8438012203b9d6133e/assets/sample_graph.svg" width=250></img></a>
+<a href="https://github.com/samchristywork/creature-simulation"><img src="https://raw.githubusercontent.com/samchristywork/creature-simulation/main/resources/screenshot-1.png" width=250></img></a>
+<a href="https://github.com/samchristywork/jigsaw-puzzle-generator"><img src="https://raw.githubusercontent.com/samchristywork/jigsaw-puzzle-generator/a90ab364772c3a3869c454a4367be9493bed8600/res/board.svg" width=250></img></a>
+<a href="https://github.com/samchristywork/turing-machine"><img src="https://raw.githubusercontent.com/samchristywork/turing-machine/f208795a1995fdc0241c05e9102e975db347db0f/res/busy_beaver.svg" width=250></img></a>
 
 ## License
 
