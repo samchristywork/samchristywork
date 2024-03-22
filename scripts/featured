@@ -12,10 +12,21 @@ coding ability, and general programming style. Read these first if you want a
 good idea of who I am as an engineer.
 EOF
 echo
-echo "Language(s) | Repository | Description"
-echo "----------- | ---------- | -----------"
+echo "Lang(s) | Repository | Description"
+echo "------- | ---------- | -----------"
 makeLine "C++" "https://github.com/samchristywork/thyme" "Thyme" "A program for printing the status of long-running jobs."
 makeLine "apachemaven" "https://github.com/samchristywork/tree-viewer" "Tree Viewer" "A desktop application for viewing and manipulating trees."
 makeLine "Rust" "https://github.com/samchristywork/transclude" "Transclude" "A program that recursively includes documents within others."
-makeLine "C" "https://github.com/samchristywork/boids" "Boids" "A C implementation and visualization of the "Boids" artificial life simulation."
+makeLine "C" "https://github.com/samchristywork/boids" "Boids" "A C implementation and visualization of the \"Boids\" artificial life simulation."
+makeLine "C++" "https://github.com/samchristywork/minesweeper" "Minesweeper" "A simple Minesweeper clone and solving algorithm written with SDL2 and C++."
+makeLine "Rust" "https://github.com/samchristywork/creature-simulation" "Creature Simulation" "A simulated world with creatures that evolve."
+makeLine "C" "https://github.com/samchristywork/turing-machine" "Turing Machine" "A simple Turing Machine with replaceable programs."
+makeLine "C++" "https://github.com/samchristywork/arithmetic-expression-parser" "Arithmetic Expression Parser" "This simple parser parses and evaluates arithmetic expressions."
+makeLine "C" "https://github.com/samchristywork/dsml2" "DSML2" "An interpreter for a JSON-based language that I use to typeset documents."
+makeLine "Rust" "https://github.com/samchristywork/jigsaw-puzzle-generator" "Jigsaw Puzzle Generator" "Generates pieces for a jigsaw puzzle."
+makeLine "C" "https://github.com/samchristywork/full-text-search" "Full Text Search" "A program for fast lookup of tokens in large bodies of text."
+makeLine "C" "https://github.com/samchristywork/hexdump-colorful" "Hexdump-Colorful" "Colorizes a hexdump to make it easier for users to determine the character classes of bytes."
+makeLine "C" "https://github.com/samchristywork/inotify-trigger" "Inotify Trigger" "Program to run commands on file changes using the inotify mechanism."
+makeLine "C++" "https://github.com/samchristywork/log-viewer" "Log Viewer" "A GUI application for viewing distributed logging infrastructure."
+makeLine "C" "https://github.com/samchristywork/terminal-calendar" "Terminal Calendar" "A calendar application for the terminal."
 echo
