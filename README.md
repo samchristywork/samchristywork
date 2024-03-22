@@ -3,17 +3,17 @@ Below I have listed all of the repositories I maintain on this account. I've
 sorted them into categories and added brief descriptions for each to aid with
 navigation.
 
-Language   | Count | Percentage
---------   | ----- | ----------
-C          | 25    | 23.58%
-C++        | 13    | 12.26%
-Go         | 13    | 12.26%
-JavaScript | 22    | 20.75%
-Rust       | 27    | 25.47%
-Shell      | 22    | 20.75%
-Other      | 23    | 21.70%
+Language   | Count | Percentage | Examples
+--------   | ----- | ---------- | --------
+C          | 25    | 23.58%     | <a href="https://github.com/search?q=owner%3Asamchristywork+lang%3AC+&type=repositories&s=updated&o=desc">link</a>
+C++        | 13    | 12.26%     | <a href="https://github.com/search?q=owner%3Asamchristywork+lang%3AC%2B%2B+&type=repositories&s=updated&o=desc">link</a>
+Go         | 13    | 12.26%     | <a href="https://github.com/search?q=owner%3Asamchristywork+lang%3AGo+&type=repositories&s=updated&o=desc">link</a>
+JavaScript | 22    | 20.75%     | <a href="https://github.com/search?q=owner%3Asamchristywork+lang%3AJavaScript+&type=repositories&s=updated&o=desc">link</a>
+Rust       | 27    | 25.47%     | <a href="https://github.com/search?q=owner%3Asamchristywork+lang%3ARust+&type=repositories&s=updated&o=desc">link</a>
+Shell      | 22    | 20.75%     | <a href="https://github.com/search?q=owner%3Asamchristywork+lang%3AShell+&type=repositories&s=updated&o=desc">link</a>
+Other      | 23    | 21.70%     | --
 
-(Last updated: Sat Mar 16 09:21:39 PM CDT 2024)
+(Last updated: Thu Mar 21 03:26:52 PM CDT 2024)
 
 ## Featured Repositories
 
