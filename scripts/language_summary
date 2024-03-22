@@ -17,13 +17,16 @@ cat data/languages | \
   {
     percentage=$1*100/'$(wc -l < data/languages)'
     if (percentage > 5) {
-      printf "%s\t%d\t%2.2f%%\t<a href=\"%s\">link</a>\n", $2, $1, percentage, $2
+      encoded_lang = $2
+      gsub(/\+/, "%2B", encoded_lang)
+      printf "%s\t%d\t%2.2f%%\t<a href=\"%s\">link</a>\n", $2, $1, percentage, "https://github.com/search?q=owner%3Asamchristywork+lang%3A"encoded_lang"+&type=repositories&s=updated&o=desc"
     }else{
       other+=$1
     }
   }
   END {
-    printf "Other\t%d\t%2.2f%%\t--\n", other, other*100/'$(wc -l < data/languages)'
+    num_langs = "'$(wc -l < data/languages)'"
+    printf "Other\t%d\t%2.2f%%\t--\n", other, other*100/num_langs
   }' | \
   column -t -s'	' -o' | '
 echo
