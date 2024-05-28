@@ -13,7 +13,7 @@ Rust       | 27    | 25.47%     | <a href="https://github.com/search?q=owner%3As
 Shell      | 22    | 20.75%     | <a href="https://github.com/search?q=owner%3Asamchristywork+lang%3AShell+&type=repositories&s=updated&o=desc">link</a>
 Other      | 23    | 21.70%     | --
 
-(Last updated: Tue May 28 06:37:45 PM CDT 2024)
+(Last updated: Tue May 28 06:44:54 PM CDT 2024)
 
 ## Featured Repositories
 
@@ -41,19 +41,20 @@ Lang(s) | Repository | Description
 
 ## Gallery
 
-<a href="https://github.com/samchristywork/hexdump-colorful"><img src="https://raw.githubusercontent.com/samchristywork/hexdump-colorful/main/example/color_key.png" width=250></img></a>
-<a href="https://github.com/samchristywork/hexdump-colorful"><img src="https://raw.githubusercontent.com/samchristywork/hexdump-colorful/main/example/selecting_classes.png" width=250></img></a>
-<a href="https://github.com/samchristywork/tree-viewer"><img src="https://raw.githubusercontent.com/samchristywork/tree-viewer/main/assets/screenshot-light.png" width=250></img></a>
-<a href="https://github.com/samchristywork/thyme"><img src="https://raw.githubusercontent.com/samchristywork/thyme/main/assets/screenshot.png" width=250></img></a>
-<a href="https://github.com/samchristywork/terminal-calendar"><img src="https://raw.githubusercontent.com/samchristywork/terminal-calendar/main/sample_annotated.png" width=250></img></a>
-<a href="https://github.com/samchristywork/log-viewer"><img src="https://raw.githubusercontent.com/samchristywork/log-viewer/main/res/screenshot.png" width=250></img></a>
-<a href="https://github.com/samchristywork/minesweeper"><img src="https://raw.githubusercontent.com/samchristywork/minesweeper/main/screenshots/image_1.png" width=250></img></a>
-<a href="https://github.com/samchristywork/boids"><img src="https://raw.githubusercontent.com/samchristywork/boids/main/res/screenshot.png" width=250></img></a>
-<a href="https://github.com/samchristywork/transclude"><img src="https://raw.githubusercontent.com/samchristywork/transclude/32926b1161d298a278e23e8438012203b9d6133e/assets/sample_graph.svg" width=250></img></a>
-<a href="https://github.com/samchristywork/creature-simulation"><img src="https://raw.githubusercontent.com/samchristywork/creature-simulation/main/resources/screenshot-1.png" width=250></img></a>
-<a href="https://github.com/samchristywork/jigsaw-puzzle-generator"><img src="https://raw.githubusercontent.com/samchristywork/jigsaw-puzzle-generator/a90ab364772c3a3869c454a4367be9493bed8600/res/board.svg" width=250></img></a>
-<a href="https://github.com/samchristywork/turing-machine"><img src="https://raw.githubusercontent.com/samchristywork/turing-machine/f208795a1995fdc0241c05e9102e975db347db0f/res/busy_beaver.svg" width=250></img></a>
-<a href="https://github.com/samchristywork/neotmux"><img src="https://raw.githubusercontent.com/samchristywork/neotmux/main/assets/callgraph.png" width=760></img></a>
+<a href="https://github.com/samchristywork/hexdump-colorful">       <img width=250 src="https://raw.githubusercontent.com/samchristywork/hexdump-colorful/main/example/color_key.png"></img></a>
+<a href="https://github.com/samchristywork/hexdump-colorful">       <img width=250 src="https://raw.githubusercontent.com/samchristywork/hexdump-colorful/main/example/selecting_classes.png"></img></a>
+<a href="https://github.com/samchristywork/tree-viewer">            <img width=250 src="https://raw.githubusercontent.com/samchristywork/tree-viewer/main/assets/screenshot-light.png"></img></a>
+<a href="https://github.com/samchristywork/thyme">                  <img width=250 src="https://raw.githubusercontent.com/samchristywork/thyme/main/assets/screenshot.png"></img></a>
+<a href="https://github.com/samchristywork/terminal-calendar">      <img width=250 src="https://raw.githubusercontent.com/samchristywork/terminal-calendar/main/sample_annotated.png"></img></a>
+<a href="https://github.com/samchristywork/log-viewer">             <img width=250 src="https://raw.githubusercontent.com/samchristywork/log-viewer/main/res/screenshot.png"></img></a>
+<a href="https://github.com/samchristywork/minesweeper">            <img width=250 src="https://raw.githubusercontent.com/samchristywork/minesweeper/main/screenshots/image_1.png"></img></a>
+<a href="https://github.com/samchristywork/boids">                  <img width=250 src="https://raw.githubusercontent.com/samchristywork/boids/main/res/screenshot.png"></img></a>
+<a href="https://github.com/samchristywork/transclude">             <img width=250 src="https://raw.githubusercontent.com/samchristywork/transclude/32926b1161d298a278e23e8438012203b9d6133e/assets/sample_graph.svg"></img></a>
+<a href="https://github.com/samchristywork/boids">                  <img width=760 src="https://raw.githubusercontent.com/samchristywork/boids/main/res/screenshot.png"></img></a>
+<a href="https://github.com/samchristywork/creature-simulation">    <img width=250 src="https://raw.githubusercontent.com/samchristywork/creature-simulation/main/resources/screenshot-1.png"></img></a>
+<a href="https://github.com/samchristywork/jigsaw-puzzle-generator"><img width=250 src="https://raw.githubusercontent.com/samchristywork/jigsaw-puzzle-generator/a90ab364772c3a3869c454a4367be9493bed8600/res/board.svg"></img></a>
+<a href="https://github.com/samchristywork/turing-machine">         <img width=250 src="https://raw.githubusercontent.com/samchristywork/turing-machine/f208795a1995fdc0241c05e9102e975db347db0f/res/busy_beaver.svg"></img></a>
+<a href="https://github.com/samchristywork/neotmux">                <img width=760 src="https://raw.githubusercontent.com/samchristywork/neotmux/main/assets/callgraph.png"></img></a>
 
 ## License
 
