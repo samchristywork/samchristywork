@@ -9,4 +9,5 @@ echo
 while read line; do
   makeImage $line
 done < assets/gallery.txt
+echo '<a href="'https://github.com/samchristywork/neotmux'"><img src="'https://raw.githubusercontent.com/samchristywork/neotmux/main/assets/callgraph.png'" width=760></img></a>'
 echo
