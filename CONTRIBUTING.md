@@ -7,7 +7,7 @@ This project is a creation of my public, professional GitHub account. I
 maintain this account solely for the convenience of professional contacts that
 need some proof of my coding abilities to hire or work on contracts.
 Contributions from others, while valuable for learning purposes and the
-development of the projects themselves, are counter to the purpose of this
+development of the projects themselves, are contrary to the purpose of this
 account.
 
 If you see a problem with my code that is absolutely dire, you may create an
